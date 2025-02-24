@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tic-Tac-Tow-Web/static/css/main.72bfcd4f.css",
+    "main.js": "/Tic-Tac-Tow-Web/static/js/main.35c90a8b.js",
+    "static/js/453.a1341b08.chunk.js": "/Tic-Tac-Tow-Web/static/js/453.a1341b08.chunk.js",
+    "index.html": "/Tic-Tac-Tow-Web/index.html",
+    "main.72bfcd4f.css.map": "/Tic-Tac-Tow-Web/static/css/main.72bfcd4f.css.map",
+    "main.35c90a8b.js.map": "/Tic-Tac-Tow-Web/static/js/main.35c90a8b.js.map",
+    "453.a1341b08.chunk.js.map": "/Tic-Tac-Tow-Web/static/js/453.a1341b08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72bfcd4f.css",
+    "static/js/main.35c90a8b.js"
+  ]
+}
