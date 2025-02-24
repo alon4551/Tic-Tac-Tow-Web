@@ -1,0 +1,43 @@
+.game_board {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    grid-template-rows: repeat(3, 100px);
+    gap: 5px;
+    background-color: #333;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+
+    .box {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: lightgray;
+        font-size: 24px;
+        font-weight: bold;
+        color: black;
+        padding: 3px 3px;
+
+    }
+
+    .box:hover {
+        background-color: darkgray;
+    }
+
+    .X {
+        background-color: red;
+    }
+
+    .X:hover {
+        background-color: darkred;
+    }
+
+    .O {
+        background-color: blue;
+    }
+
+    .O:hover {
+        background-color: darkblue;
+    }
+
+}
